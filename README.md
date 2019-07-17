@@ -6,6 +6,6 @@ This is an API developed with the slim micro framework.
 2. PDO
 
 # Dependencies
-| Technologies  | Verson        | Description                           |
+| Dependency    | Verson        | Description                           |
 | ------------- |:-------------:| ------------------------------------: |
 | Slim          | 3.12          | PHP micro framework for Creating API's|
